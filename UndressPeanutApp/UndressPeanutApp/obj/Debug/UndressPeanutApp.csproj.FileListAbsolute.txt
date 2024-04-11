@@ -1,0 +1,11 @@
+C:\Users\Yoshimaru Haru\source\repos\UndressPeanutApp\UndressPeanutApp\bin\Debug\UndressPeanutApp.exe.config
+C:\Users\Yoshimaru Haru\source\repos\UndressPeanutApp\UndressPeanutApp\bin\Debug\UndressPeanutApp.exe
+C:\Users\Yoshimaru Haru\source\repos\UndressPeanutApp\UndressPeanutApp\bin\Debug\UndressPeanutApp.pdb
+C:\Users\Yoshimaru Haru\source\repos\UndressPeanutApp\UndressPeanutApp\obj\Debug\UndressPeanutApp.csproj.AssemblyReference.cache
+C:\Users\Yoshimaru Haru\source\repos\UndressPeanutApp\UndressPeanutApp\obj\Debug\UndressPeanutApp.frmUndressPeanut.resources
+C:\Users\Yoshimaru Haru\source\repos\UndressPeanutApp\UndressPeanutApp\obj\Debug\UndressPeanutApp.Properties.Resources.resources
+C:\Users\Yoshimaru Haru\source\repos\UndressPeanutApp\UndressPeanutApp\obj\Debug\UndressPeanutApp.csproj.GenerateResource.cache
+C:\Users\Yoshimaru Haru\source\repos\UndressPeanutApp\UndressPeanutApp\obj\Debug\UndressPeanutApp.csproj.CoreCompileInputs.cache
+C:\Users\Yoshimaru Haru\source\repos\UndressPeanutApp\UndressPeanutApp\obj\Debug\UndressPeanutApp.exe
+C:\Users\Yoshimaru Haru\source\repos\UndressPeanutApp\UndressPeanutApp\obj\Debug\UndressPeanutApp.pdb
+C:\Users\Yoshimaru Haru\source\repos\UndressPeanutApp\UndressPeanutApp\obj\Debug\UndressPeanutApp.Form2.resources
